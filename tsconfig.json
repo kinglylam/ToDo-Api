@@ -9,8 +9,7 @@
     "baseUrl": "./",
     "paths": {
       "*": ["node_modules/*"]
-    },
-    "types": ["node", "express"] // Include other types if needed
+    }
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules"]
